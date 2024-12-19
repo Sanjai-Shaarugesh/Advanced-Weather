@@ -94,9 +94,8 @@ Right-click the weather widget to access:
 3. Commit changes
 4. Push and create Pull Request
 
-## Localization
-
-Help translate Advanced Weather into your language! Check `po/` directory for translation files.
+## Uses 
+This extension is using `ipapi.co` and `open-meteo.com` services
 
 ## License
 
